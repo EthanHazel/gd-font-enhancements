@@ -1,4 +1,4 @@
-<p align="center">![Logo](./pack.png)</p>
+<p align="center"><img src="pack.png" /></p>
 
 <h1 align="center">Font Enhancements Texture Pack</h1>
 
