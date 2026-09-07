@@ -1,3 +1,8 @@
-# Font Enhancements Texture Pack
+<p align="center">![Logo](./pack.png)</p>
 
-Simple texture pack that adjusts the look of the gold font & regular font in Geometry Dash to look more shiny and 3D.
+<h1 align="center">Font Enhancements Texture Pack</h1>
+
+<p align="center">**Small texture pack that adjusts the look of the gold font & regular font in Geometry Dash to look more shiny and 3D.**</p>
+
+<p align="center">Designed by me, Ethan Hazel (Exetric)</p>
+<p align="center">Ported to medium by Yoichi</p>
